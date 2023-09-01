@@ -1,0 +1,262 @@
+[
+    {
+        "id": 1,
+        "title": "Chicken Run",
+        "released": 2000,
+        "about": "Life on Tweedy's Chicken Farm is far from pleasant for the inmates. Ginger the hen's various attempts at escape have failed, but when Rocky the famous Flying Rooster crash lands in the farm, she sees the chance she has been waiting for: Rocky can teach everyone how to fly, and they can stage a mass break-out!",
+        "roles": [
+            {
+                "id": 1,
+                "name": "Ginger",
+                "voice": "Julia Sawalha",
+                "villain": false,
+                "species": "Rhode Island Red Hen"
+            },
+            {
+                "id": 2,
+                "name": "Babs",
+                "voice": "Jane Horrocks",
+                "villain": false,
+                "species": "Buff Orpington"
+            },
+            {
+                "id": 3,
+                "name": "Mac",
+                "voice": "Lynn Ferguson",
+                "villain": false,
+                "species": "Cinnamon Queen"
+            },
+            {
+                "id": 4,
+                "name": "Mrs Tweedy",
+                "voice": "Miranda Richardson",
+                "villain": true,
+                "species": "Human"
+            },
+            {
+                "id": 5,
+                "name": "Rocky",
+                "voice": "Mel Gibson",
+                "villain": false,
+                "species": "American rooster"
+            },
+            {
+                "id": 6,
+                "name": "Mr Tweedy",
+                "voice": "Tony Haygarth",
+                "villain": true,
+                "species": "Human"
+            }
+        ],
+        "runningTime": 84,
+        "tomatometer": 97,
+        "boxOffice": 22780000,
+        "budget": 45000000,
+        "link": "https://www.aardman.com/film-tv-games/chicken-run/"
+    },
+    {
+        "id": 2,
+        "title": "Robin Robin",
+        "released": 2021,
+        "about": "When her egg fortuitously rolls into a rubbish dump, Robin is raised by a loving family of burglar mice. As she grows up, her differences become more apparent. Robin sets off on the heist to end all heists to prove to her family that she can be a really good mouse – but ends up discovering who she really is.",
+        "roles": [
+            {
+                "id": 7,
+                "name": "Robin",
+                "voice": "Bronte Carmichael",
+                "villain": false,
+                "species": "British Robin"
+            },
+            {
+                "id": 8,
+                "name": "Magpie",
+                "voice": "Richard E Grant",
+                "villain": false,
+                "species": "Magpie"
+            },
+            {
+                "id": 9,
+                "name": "Cat",
+                "voice": "Gillian Anderson",
+                "villain": true,
+                "species": "Domestic Cat"
+            }
+        ],
+        "runningTime": 30,
+        "tomatometer": 100,
+        "boxOffice": null,
+        "budget": null,
+        "link": "https://www.aardman.com/film-tv-games/robin-robin/"
+    },
+    {
+        "id": 3,
+        "title": "The Pirates! In an Adventure with Scientists",
+        "released": 2004,
+        "about": "Our hero is the luxuriantly bearded Pirate Captain – a boundlessly enthusiastic, if somewhat less-than-successful, terror of the High Seas. With a rag-tag crew at his side, and seemingly blind to the impossible odds stacked against him, the Captain has one dream: to beat his bitter rivals Black Bellamy and Cutlass Liz to the Pirate Of The Year Award.",
+        "roles": [
+            {
+                "id": 10,
+                "name": "Robin",
+                "voice": "Hugh Grant",
+                "villain": false,
+                "species": "Human"
+            },
+            {
+                "id": 11,
+                "name": "Queen Victoria",
+                "voice": "Imelda Staunton",
+                "villain": true,
+                "species": "Human"
+            },
+            {
+                "id": 12,
+                "name": "Pirate with a Scarf",
+                "voice": "Martin Freeman",
+                "villain": false,
+                "species": "Human"
+            },
+            {
+                "id": 13,
+                "name": "Cutlass Liz",
+                "voice": "Salma Hayek",
+                "villain": false,
+                "species": "Human"
+            },
+            {
+                "id": 14,
+                "name": "Black Bellamy",
+                "voice": "Jeremy Piven",
+                "villain": true,
+                "species": "Human"
+            },
+            {
+                "id": 15,
+                "name": "Charles Darwin",
+                "voice": "David Tennant",
+                "villain": true,
+                "species": "Human"
+            },
+            {
+                "id": 16,
+                "name": "Polly",
+                "voice": null,
+                "villain": false,
+                "species": "Dodo"
+            }
+        ],
+        "runningTime": 88,
+        "tomatometer": 86,
+        "boxOffice": 123000000,
+        "budget": 55000000,
+        "link": "https://www.aardman.com/film-tv-games/the-pirates/"
+    },
+    {
+        "id": 4,
+        "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+        "released": 2005,
+        "about": "Wallace and Gromit’s latest business venture – a humane pest-control outfit called ‘Anti-Pesto’ – is booming, but the enterprising duo are finding it hard to manage all the captive rabbits taking over West Wallaby Street. Now they’ve been tasked with tracking down the mysterious beast that’s been decimating the town’s vegetable plots. With the fate of Lady Tottington’s much-loved Giant Vegetable Competition hanging in the balance, can Wallace and Gromit save the day?",
+        "roles": [
+            {
+                "id": 17,
+                "name": "Wallace",
+                "voice": "Peter Sallis",
+                "villain": false,
+                "species": "Human"
+            },
+            {
+                "id": 18,
+                "name": "Gromit",
+                "voice": null,
+                "villain": false,
+                "species": "Dog"
+            },
+            {
+                "id": 19,
+                "name": "Lady Campanula Tottington",
+                "voice": "Helena Bonham Carter",
+                "villain": false,
+                "species": "Human"
+            },
+            {
+                "id": 20,
+                "name": "Victor Quartermaine",
+                "voice": "Ralph Fiennes",
+                "villain": true,
+                "species": "Human"
+            }
+        ],
+        "runningTime": 85,
+        "tomatometer": 95,
+        "boxOffice": 192600000,
+        "budget": 30000000,
+        "link": "https://www.aardman.com/film-tv-games/the-curse-of-the-were-rabbit/"
+    },
+    {
+        "id": 5,
+        "title": "Wallace & Gromit: A Matter of Loaf or Death",
+        "released": 2008,
+        "about": "In A Matter of Loaf or Death, Wallace and Gromit have started a new bread baking business, ‘Top Bun’ and converted 62 West Wallaby Street into a granary with ovens, robotic kneading arms and an old-fashioned windmill on the roof. While they enjoy being the ‘Toast of the Town’, Gromit soon realises his master’s life is in jeopardy, and turns sleuth to solve the escalating murder mystery.",
+        "roles": [
+            {
+                "id": 21,
+                "name": "Piella Bakewell",
+                "voice": "Sally Lindsey",
+                "villain": true,
+                "species": "Human"
+            },
+            {
+                "id": 17,
+                "name": "Wallace",
+                "voice": "Peter Sallis",
+                "villain": false,
+                "species": "Human"
+            },
+            {
+                "id": 18,
+                "name": "Gromit",
+                "voice": null,
+                "villain": false,
+                "species": "Dog"
+            }
+        ],
+        "runningTime": 29,
+        "tomatometer": 77,
+        "boxOffice": null,
+        "budget": 3000000,
+        "link": "https://www.aardman.com/film-tv-games/wallace-gromit/"
+    },
+    {
+        "id": 6,
+        "title": "Wallace & Gromit: The Wrong Trousers",
+        "released": 1993,
+        "about": "Finances are tight at West Wallaby Street and Wallace is forced to take in a lodger. Unfortunately, the successful applicant is a penguin with attitude who turns out to be the notorious criminal Feathers McGraw. When McGraw adapts one of Wallace’s inventions (an automated pair of ‘Techno Trousers’) and forces him to steal a priceless diamond, Gromit comes to the rescue.",
+        "roles": [
+            {
+                "id": 22,
+                "name": "Feathers McGraw",
+                "voice": null,
+                "villain": true,
+                "species": "Penguin"
+            },
+            {
+                "id": 17,
+                "name": "Wallace",
+                "voice": "Peter Sallis",
+                "villain": false,
+                "species": "Human"
+            },
+            {
+                "id": 18,
+                "name": "Gromit",
+                "voice": null,
+                "villain": false,
+                "species": "Dog"
+            }
+        ],
+        "runningTime": 29,
+        "tomatometer": 100,
+        "boxOffice": null,
+        "budget": 650000,
+        "link": "https://www.aardman.com/film-tv-games/wallace-gromit/"
+    }
+]
