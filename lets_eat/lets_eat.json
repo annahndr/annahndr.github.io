@@ -1,0 +1,173 @@
+[
+    {
+        "id": 1,
+        "name": "Oro",
+        "address": "85 Kilmarnock Road",
+        "postcode": "G41 3YR",
+        "website": "https://oro.restaurant/",
+        "cuisines": [
+            "SCOTTISH",
+            "ITALIAN"
+        ],
+        "location": {
+            "id": 1,
+            "town": "Glasgow",
+            "neighbourhood": "Shawlands"
+        },
+        "latitude": 55.82848067622028,
+        "longitude": -4.283155686885101
+    },
+    {
+        "id": 2,
+        "name": "Halloumi South",
+        "address": "697 Pollockshaws Road",
+        "postcode": "G41 2AB",
+        "website": "https://halloumiglasgow.co.uk/",
+        "cuisines": [
+            "GREEK"
+        ],
+        "location": {
+            "id": 1,
+            "town": "Glasgow",
+            "neighbourhood": "Shawlands"
+        },
+        "latitude": 55.83631038173913,
+        "longitude": -4.270213013722374
+    },
+    {
+        "id": 3,
+        "name": "Rasa Sayang Soho",
+        "address": "5 Macclesfield Street",
+        "postcode": "W1D 6AY",
+        "website": "https://www.rasasayangfood.com/",
+        "cuisines": [
+            "MALAY",
+            "SINGAPOREAN"
+        ],
+        "location": {
+            "id": 4,
+            "town": "London",
+            "neighbourhood": "Westminster"
+        },
+        "latitude": 51.51221728426225,
+        "longitude": -0.13142491613083804
+    },
+    {
+        "id": 4,
+        "name": "Angelina",
+        "address": "58 Dalston Lane",
+        "postcode": "E8 3AH",
+        "website": "https://www.angelina.london/",
+        "cuisines": [
+            "ITALIAN",
+            "JAPANESE"
+        ],
+        "location": {
+            "id": 5,
+            "town": "London",
+            "neighbourhood": "Hackney"
+        },
+        "latitude": 51.54878549516992,
+        "longitude": -0.0653088161289957
+    },
+    {
+        "id": 5,
+        "name": "Al-Kahf",
+        "address": "112-116 Vine Ct",
+        "postcode": "E1 1JE",
+        "website": "",
+        "cuisines": [
+            "SOMALI"
+        ],
+        "location": {
+            "id": 6,
+            "town": "London",
+            "neighbourhood": "Tower Hamlets"
+        },
+        "latitude": 51.520815214449684,
+        "longitude": -0.06448335739339328
+    },
+    {
+        "id": 6,
+        "name": "Inko Nito",
+        "address": "55 Broadwick Street",
+        "postcode": "W1F 9QS",
+        "website": "https://inkonitorestaurant.com/",
+        "cuisines": [
+            "JAPANESE"
+        ],
+        "location": {
+            "id": 4,
+            "town": "London",
+            "neighbourhood": "Westminster"
+        },
+        "latitude": 51.51702341430502,
+        "longitude": -0.13749934134555605
+    },
+    {
+        "id": 7,
+        "name": "Cafe Beam",
+        "address": "103 Westbourne Grove",
+        "postcode": "W2 4UW",
+        "website": "https://www.cafebeam.co.uk/",
+        "cuisines": [
+            "MIDDLE_EASTERN"
+        ],
+        "location": {
+            "id": 7,
+            "town": "London",
+            "neighbourhood": "Kensington and Chelsea"
+        },
+        "latitude": 51.51605897169,
+        "longitude": -0.19338849369059816
+    },
+    {
+        "id": 8,
+        "name": "Bullgogi",
+        "address": "145 Nottinghill Gate",
+        "postcode": "W11 3LB",
+        "website": "http://www.bullgogi.com/",
+        "cuisines": [
+            "KOREAN"
+        ],
+        "location": {
+            "id": 7,
+            "town": "London",
+            "neighbourhood": "Kensington and Chelsea"
+        },
+        "latitude": 51.50868087191573,
+        "longitude": -0.1996357897948266
+    },
+    {
+        "id": 9,
+        "name": "Big Lola's Taqueria",
+        "address": "493 Smithdown Road",
+        "postcode": "L15 5AE",
+        "website": "https://biglolas.co.uk/",
+        "cuisines": [],
+        "location": {
+            "id": 3,
+            "town": "Liverpool",
+            "neighbourhood": "Wavertree"
+        },
+        "latitude": 53.390099848417435,
+        "longitude": -2.9255602025424277
+    },
+    {
+        "id": 10,
+        "name": "Bone Daddies Soho",
+        "address": "31 Peter Street",
+        "postcode": "W1F 0AR",
+        "website": "https://bonedaddies.com/",
+        "cuisines": [
+            "JAPANESE"
+        ],
+        "location": {
+            "id": 4,
+            "town": "London",
+            "neighbourhood": "Westminster"
+        },
+        "latitude": 51.51303243103601,
+        "longitude": -0.13385438794191476
+    }
+]
