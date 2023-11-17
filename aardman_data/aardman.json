@@ -261,33 +261,108 @@
     },
     {
         "id": 7,
+        "title": "Wallace & Gromit: A Close Shave",
+        "released": 1995,
+        "about": "trade is booming for Wallace and Gromit's Wash'n'Go window-cleaning service, and love is in the air as Wallace falls for the owner of the local wool shop, the lovely Wendolene Ramsbottom. But Wallace has a new invention - a Knit-O-matic machine - and adventure looms: sheep are being rustled, wool is in short supply and Wendolene's malevolent pooch Preston is on the prowl... ",
+        "roles": [
+            {
+                "id": 23,
+                "name": "Wendolene Ramsbottom",
+                "voice": "Anne Reid",
+                "villain": false,
+                "species": "human"
+            },
+            {
+                "id": 24,
+                "name": "Preston",
+                "voice": null,
+                "villain": true,
+                "species": "robot dog"
+            },
+            {
+                "id": 17,
+                "name": "Wallace",
+                "voice": "Peter Sallis",
+                "villain": false,
+                "species": "Human"
+            },
+            {
+                "id": 18,
+                "name": "Gromit",
+                "voice": null,
+                "villain": false,
+                "species": "Dog"
+            }
+        ],
+        "runningTime": 30,
+        "tomatometer": 100,
+        "boxOffice": null,
+        "budget": 1300000,
+        "link": "https://www.aardman.com/film-tv-games/wallace-gromit/"
+    },
+    {
+        "id": 8,
+        "title": "Flushed Away",
+        "released": 2006,
+        "about": "Roddy St. James is a pampered pet rat who thinks he’s got it made. But when a sewer rat named Sid comes spewing out of the sink and decides it’s his turn to enjoy the lap of luxury, Roddy schemes to rid himself of the pest by luring him into the loo for a dip in the “whirlpool.” Roddy’s plan backfires when he winds up being the one flushed away into the bustling world down below. Underground, Roddy discovers a vast metropolis where he meets Rita, a street-wise rat who is on a mission of her own.",
+        "roles": [
+            {
+                "id": 25,
+                "name": "Roddy St James",
+                "voice": "Hugh Jackman",
+                "villain": false,
+                "species": "rat"
+            },
+            {
+                "id": 26,
+                "name": "Sid",
+                "voice": "Shane Ritchie",
+                "villain": true,
+                "species": "rat"
+            },
+            {
+                "id": 27,
+                "name": "Rita",
+                "voice": "Kate Winslet",
+                "villain": false,
+                "species": "rat"
+            }
+        ],
+        "runningTime": 85,
+        "tomatometer": 73,
+        "boxOffice": 178000000,
+        "budget": 149000000,
+        "link": "https://www.aardman.com/film-tv-games/flushed-away/"
+    },
+    {
+        "id": 9,
         "title": "Early Man",
         "released": 2018,
         "about": "Set at the dawn of time, when prehistoric creatures roamed the earth, Early Man tells the story of courageous caveman hero Dug and his best friend Hognob, as they unite his tribe against a mighty enemy, Lord Nooth, and his Bronze Age City to save their home.",
         "roles": [
             {
-                "id": 23,
+                "id": 28,
                 "name": "Dug",
                 "voice": "Eddie RedMayne",
                 "villain": false,
                 "species": "Human"
             },
             {
-                "id": 24,
+                "id": 29,
                 "name": "Hognob",
                 "voice": null,
                 "villain": false,
                 "species": "Wild Boar"
             },
             {
-                "id": 25,
+                "id": 30,
                 "name": "Lord Nooth",
                 "voice": "Tom Hiddleston",
                 "villain": true,
                 "species": "Human"
             },
             {
-                "id": 26,
+                "id": 31,
                 "name": "Goona",
                 "voice": "Maisie Williams",
                 "villain": false,
@@ -301,27 +376,27 @@
         "link": "https://www.aardman.com/film-tv-games/early-man/"
     },
     {
-        "id": 8,
+        "id": 10,
         "title": "Arhur Christmas",
         "released": 2011,
         "about": "How CAN Santa deliver billions of presents to the whole world in just one night? With an army of one million combat-style Field Elves and a vast, state-of-the-art control centre under the ice of the North Pole! So how could this incredible mission have MISSED one child?! To Santa’s young son, Arthur, it threatens to end the magic of Christmas. With retired Grandsanta, a rebellious elf, and old sleigh and some untrained reindeer, Arthur sets out on a crazy mission to deliver the last present.",
         "roles": [
             {
-                "id": 27,
+                "id": 32,
                 "name": "Arthur Claus",
                 "voice": "James McAvoy",
                 "villain": false,
                 "species": "Human"
             },
             {
-                "id": 28,
+                "id": 33,
                 "name": "Grandsanta",
                 "voice": "Bill Nighy",
                 "villain": false,
                 "species": "Human"
             },
             {
-                "id": 29,
+                "id": 34,
                 "name": "Steven Claus",
                 "voice": "Hugh Laurie",
                 "villain": false,
