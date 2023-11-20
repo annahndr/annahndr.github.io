@@ -360,5 +360,40 @@
         },
         "latitude": 51.529269810897006,
         "longitude": -0.1317596682474947
+    },
+    {
+        "id": 23,
+        "name": "Gopal's Corner Victoria",
+        "address": "Markethalls, 121 Victoria Street",
+        "postcode": "SW1E 5NE",
+        "website": "https://www.instagram.com/gopalscorner/?hl=en",
+        "cuisines": [
+            "MALAYSIAN",
+            "SINGAPOREAN"
+        ],
+        "location": {
+            "id": 9,
+            "town": "London",
+            "neighbourhood": "Westminster"
+        },
+        "latitude": 51.496560314928864,
+        "longitude": -0.14441286031125022
+    },
+    {
+        "id": 24,
+        "name": "The Gordon Highlander",
+        "address": "W High Street",
+        "postcode": "AB51 3QQ",
+        "website": "https://www.instagram.com/gopalscorner/?hl=en",
+        "cuisines": [
+            "BRITISH"
+        ],
+        "location": {
+            "id": 4,
+            "town": "Inverurie",
+            "neighbourhood": "Town Centre"
+        },
+        "latitude": 57.284996342160724,
+        "longitude": -2.3796990138752268
     }
 ]
